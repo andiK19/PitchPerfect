@@ -1,7 +1,7 @@
 //
 //  PlaySoundsViewController.swift
 //  PitchPerfect
-//
+//  Udacity Nanodegree Project
 //  Created by Andreas Kremling on 09.01.22.
 //
 
