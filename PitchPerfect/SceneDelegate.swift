@@ -1,7 +1,7 @@
 //
 //  SceneDelegate.swift
 //  PitchPerfect
-//
+//  Udacity Nanodegree Project
 //  Created by Andreas Kremling on 07.01.22.
 //
 
